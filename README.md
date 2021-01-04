@@ -9,7 +9,7 @@ The initial results analyzed the precipitation levels within the previous 12 mon
 
 After presenting the initial results via a web link, W. Avy requested temperature data specifically for the months of June and December, in order to determine if the surf and ice cream shop business is sustainable year-round. The additional analysis resulted into two statistical summaries which was presented for each month's data.    
 
-## Analysis Results
+## Initial Analysis Results
 * The initial temperature observations based on the most active station divided into 12 different bins
 
 ![temp_observations](https://github.com/Lora-Borja/surfs_up/blob/main/Images/temp_observations.PNG)
@@ -17,14 +17,14 @@ After presenting the initial results via a web link, W. Avy requested temperatur
 This graph shows that within the previous 12 months of data a vast majority of the observations were over 67°F -- an ideal weather for surfing and ice cream! Looking at the bins to the right of the 67 degrees, we can say that roughly 325 days was where the temperature was observed at its highest. 
 
 
-* The Summary Statistics for June
+## The Summary Statistics for June and December
 
 ![june_temps](https://github.com/Lora-Borja/surfs_up/blob/main/Images/june_temps.PNG)
 
 
 
-* The Summary Statistics for December
 ![december_temps](https://github.com/Lora-Borja/surfs_up/blob/main/Images/december_temps.PNG)
+
 
 
 The above statistics shows these key differences in weather between June and December:
