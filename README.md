@@ -13,6 +13,7 @@ After presenting the initial results via a web link, W. Avy requested temperatur
 * The initial temperature observations based on the most active station divided into 12 different bins
 
 ![temp_observations](https://github.com/Lora-Borja/surfs_up/blob/main/Images/temp_observations.PNG)
+
 This graph shows that within the previous 12 months of data a vast majority of the observations were over 67°F -- an ideal weather for surfing and ice cream! Looking at the bins to the right of the 67 degrees, we can say that roughly 325 days was where the temperature was observed at its highest. 
 
 
