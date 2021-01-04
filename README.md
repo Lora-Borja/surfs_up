@@ -22,8 +22,10 @@ This graph shows that within the previous 12 months of data a vast majority of t
 ![june_temps](https://github.com/Lora-Borja/surfs_up/blob/main/Images/june_temps.PNG)
 
 
+
 * The Summary Statistics for December
 ![december_temps](https://github.com/Lora-Borja/surfs_up/blob/main/Images/december_temps.PNG)
+
 
 The above statistics shows these key differences in weather between June and December:
 * The highest temperature is only slightly higher in June than in December - 85°F and 83°F respectively!
